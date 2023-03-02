@@ -1,0 +1,3 @@
+kedro_setup_formrecognizer
+setup
+tests

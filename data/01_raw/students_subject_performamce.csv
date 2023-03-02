@@ -1,0 +1,31 @@
+﻿name,subject ,term_1,term_2
+jensen,mathematics,60,62
+peter,mathematics,70,98
+caitlin,mathematics,90,56
+anthony,mathematics,95,85
+mary,mathematics,20,65
+anne,mathematics,50,75
+jensen,science,80,84
+peter,science,56,52
+caitlin,science,25,98
+anthony,science,84,74
+mary,science,79,85
+anne,science,90,65
+jensen,english,89,62
+peter,english,56,85
+caitlin,english,45,74
+anthony,english,90,65
+mary,english,36,98
+anne,english,58,74
+jensen,kiswahili,98,78
+peter,kiswahili,79,62
+caitlin,kiswahili,84,61
+anthony,kiswahili,81,52
+mary,kiswahili,72,45
+anne,kiswahili,73,54
+jensen,social studies,87,62
+peter,social studies,69,98
+caitlin,social studies,54,56
+anthony,social studies,52,90
+mary,social studies,87,74
+anne,social studies,71,85
