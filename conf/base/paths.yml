@@ -4,10 +4,10 @@
 ROOT_PATH_FOR_DYNACONF: "{{get_project_root()}}"
 
 # The directory where your Python code is stored
-SRC_DIR: "${ROOT_PATH}/src"
+SRC_DIR: "${ROOT_PATH_FOR_DYNACONF}/src"
 
 # The directory where your data is stored
-DATA_DIR: "${ROOT_PATH}/data"
+DATA_DIR: "${ROOT_PATH_FOR_DYNACONF}/data"
 
 # The directory where your logs are stored
-LOG_DIR: "${ROOT_PATH}/logs"
+LOG_DIR: "${ROOT_PATH_FOR_DYNACONF}/logs"
